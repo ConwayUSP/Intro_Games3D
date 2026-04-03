@@ -12,6 +12,10 @@ Dito isso, na aula de hoje vamos aprender sobre:
 - Partículas
 - Efeitos Sonoros
 
+Além disso, até o final da aula você terá o seguinte jogo no seu portifólio:
+
+https://github.com/user-attachments/assets/179419cb-ec47-414a-b871-a6d0eba06172
+
 ## O Godot Game Engine
 
 Uma pedra no meio do nosso caminho é que o framework LÖVE **não** possui ferramentas para criar jogos 3D :cry:. Então para continuar nosso aprendizado vamos ter que migrar para uma outra ferramenta, caso você tenha lido a introdução desse curso você já sabe qual: o **Godot Game Engine**.
