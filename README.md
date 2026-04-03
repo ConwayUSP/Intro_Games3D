@@ -34,7 +34,6 @@ Membros da Conway USP que se inscreveram nesta trilha através do **Processo Int
 
 - Caio Bernado [(caio-bernardo)](http://github.com/caio-bernardo).
 - Eduardo Almeida [(Du-Almeida995)](https://github.com/DuAlmeida995)
-- Julio Arroios
 
 ## Agradecimentos
 
