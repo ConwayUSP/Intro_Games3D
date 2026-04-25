@@ -2,7 +2,7 @@
 
 Meus parabéns você chegou ao seu destino! Depois de muito esforço e dedicação você completou a trilha de "_Introdução à Desenvolvimento de Jogos 3D_". Espero que tenha aproveitado essa jornada e aprendido algumas coisas novas.
 
-![[game-over-screen.png]]
+![](assets/game-over-screen.png)
 
 Pixel Art the Game Over com o Monte Fujiyama. Fonte: [vecteezy.com](https://www.vecteezy.com/vector-art/13467447-pixel-video-game-over-screen-with-mount-fujiyama)
 
@@ -20,7 +20,7 @@ Se você está atrás do seu Certificado de Conclusão ou apenas quer provar sua
 
 ## Obtendo seu Certificado
 
-Se você é um membro da **Conway USP**, você tem direito a um _Certificado de Conclusão_ ao finalizar este curso. Tudo que você precisa fazer é enviar seu projeto para o email oficial da Conway ([conway-each@usp.br](mailto:conway-each@usp.br)). Com o assunto: "Curso Introdução à Game Dev 3D: Projeto Final". Apresente-se, explique o seu projeto e mostre a implementação ou mande um link para o repositório.
+Se você é um membro da **Conway USP**, você tem direito a um _Certificado de Conclusão_ ao finalizar este curso. Tudo que você precisa fazer é enviar seu projeto para o email oficial da Conway ([conway-each@usp.br](mailto:conway-si-each@usp.br)). Com o assunto: "Curso Introdução à Game Dev 3D: Projeto Final". Apresente-se, explique o seu projeto e mostre a implementação ou mande um link para o repositório.
 
 ## Continuando a aprender
 
