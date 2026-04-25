@@ -20,7 +20,7 @@ Se você está atrás do seu Certificado de Conclusão ou apenas quer provar sua
 
 ## Obtendo seu Certificado
 
-Se você é um membro da **Conway USP**, você tem direito a um _Certificado de Conclusão_ ao finalizar este curso. Tudo que você precisa fazer é enviar seu projeto para o email oficial da Conway ([conway-each@usp.br](mailto:conway-si-each@usp.br)). Com o assunto: "Curso Introdução à Game Dev 3D: Projeto Final". Apresente-se, explique o seu projeto e mostre a implementação ou mande um link para o repositório.
+Se você é um membro da **Conway USP**, você tem direito a um _Certificado de Conclusão_ ao finalizar este curso. Tudo que você precisa fazer é enviar seu projeto para o email oficial da Conway ([conway-si-each@usp.br](mailto:conway-si-each@usp.br)). Com o assunto: "Curso Introdução à Game Dev 3D: Projeto Final". Apresente-se, explique o seu projeto e mostre a implementação ou mande um link para o repositório.
 
 ## Continuando a aprender
 
